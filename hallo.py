@@ -1,3 +1,3 @@
 # Pierwszy program
 
-print("Haelo world!")
+print("Hello world!")
